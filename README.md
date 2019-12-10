@@ -33,9 +33,14 @@ Train model:
 
 Currently only support BERT-LSTM model.
 
+As shown in the uncompleted functions in main.py, we are working on other model architectures for Chinese-seg, e.g. LSTM-CRF, BERT-LSTM-CRF, the results will be shown later.
+
 Evluate:
 > python eval.py
 
-Will create a segmentated result on test data at /eval.
+This execution will create a file (e.g. one that named 'test_pred_bert_lstm_1.txt') in /eval directory, which contains the segmentated results on test data at /data/test.txt. 
 
-Later we will compare our results with Pkuseg.
+Currently we haven't incorporate argument parsers in the codes above, so please mannually change the corresponding details in the code to assign the names and routes of the files including logs, results and checkpoints.
+
+## Performance comparison
+Later we will compare our results with the open-source tool Pkuseg.
