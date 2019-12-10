@@ -28,4 +28,5 @@ Currently only support BERT-LSTM model.
 Evluate:
 > python eval.py
 
-Will create a segmentated result on test data at /eval
+Will create a segmentated result on test data at /eval.
+Later we will compare our results with Pkuseg.
