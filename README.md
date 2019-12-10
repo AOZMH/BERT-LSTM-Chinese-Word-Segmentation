@@ -17,7 +17,7 @@ Tested on SIGHAN-2004 Chinese Word Segmentation dataset
 |TOTAL TEST WORD COUNT|106827|
 |**TOTAL TRUE WORDS RECALL**|**0.984**|
 |**TOTAL TEST WORDS PRECISION**|**0.985**|
-|**F MEASURE**|0.984|
+|**F MEASURE**|**0.984**|
 
 ## Execution
 Train model:
