@@ -45,22 +45,7 @@ Currently we haven't incorporate argument parsers in the codes above, so please 
 ## Performance comparison
 The comparison between our results and the open-source tool Pkuseg.
 
-|Model|OOV Rate|OOV Recall|IV Recall|Recall|Precision|F-Measur|
+|Model|OOV Rate|OOV Recall|IV Recall|Recall|Precision|F Measure|
 |:--------------|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |Pkuseg|0.026|0.873|0.413|0.883|0.863|0.873|
-|Gensibo's Dad|0.026|0.854|0.988|0.984|0.985|0.954|
-
-
-|TOTAL INSERTIONS|593|
-|TOTAL DELETIONS|639|
-|TOTAL SUBSTITUTIONS|1053|
-|TOTAL NCHANGE|2285|
-|OOV Rate|0.026|
-|OOV Recall Rate|0.854|
-|IV Recall Rate|0.988|
-|TOTAL TRUE WORD COUNT|	106873|
-|TOTAL TEST WORD COUNT|106827|
-|**TOTAL TRUE WORDS RECALL**|**0.984**|
-|**TOTAL TEST WORDS PRECISION**|**0.985**|
-|**F MEASURE**|**0.984**|
-
+|**Gensibo's Dad**|0.026|**0.854**|**0.988**|**0.984**|**0.985**|**0.954**|
