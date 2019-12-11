@@ -1,4 +1,4 @@
-# Chinese-Word-Segmentation
+# BERT-LSTM-Chinese-Word-Segmentation
 BERT-LSTM-based Chinese word segmentation model on SIGHAN-2004
 
 ## Data Prepare
