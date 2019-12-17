@@ -48,4 +48,4 @@ The comparison between our results and the open-source tool Pkuseg.
 |Model|OOV Rate|OOV Recall|IV Recall|Recall|Precision|F Measure|
 |:--------------|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |Pkuseg|0.026|**0.873**|0.413|0.883|0.863|0.873|
-|Our Model|0.026|0.854|**0.988**|**0.984**|**0.985**|**0.984**|
+|Geng's Dad|0.026|0.854|**0.988**|**0.984**|**0.985**|**0.984**|
