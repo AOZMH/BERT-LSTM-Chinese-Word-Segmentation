@@ -2,7 +2,7 @@
 BERT-LSTM-based Chinese word segmentation model on SIGHAN-2004
 
 ## Data Prepare
-Please use /data directory at https://disk.pku.edu.cn/#/link/BD5D180ABA2695B15A7518164DEACB56%20 to replace the blank directory here.
+Please use **data_chn_seg/** directory at [PKU net disk](https://disk.pku.edu.cn:443/link/29DA5AADBFAB8C208F08C910EA59DA09) to replace the blank **data/** directory here.
 
 Such file contains the pretrained parameters and all fine-tuned results. A PKU-net-disk account is required :).
 
